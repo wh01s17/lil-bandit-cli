@@ -1,0 +1,14 @@
+README.md
+pyproject.toml
+src/lil_bandit_cli/__init__.py
+src/lil_bandit_cli/cli.py
+src/lil_bandit_cli.egg-info/PKG-INFO
+src/lil_bandit_cli.egg-info/SOURCES.txt
+src/lil_bandit_cli.egg-info/dependency_links.txt
+src/lil_bandit_cli.egg-info/entry_points.txt
+src/lil_bandit_cli.egg-info/requires.txt
+src/lil_bandit_cli.egg-info/top_level.txt
+src/lil_bandit_cli/core/__init__.py
+src/lil_bandit_cli/core/scanner.py
+src/lil_bandit_cli/core/utils.py
+tests/test_basic.py

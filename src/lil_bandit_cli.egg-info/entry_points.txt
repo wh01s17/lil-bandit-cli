@@ -1,0 +1,2 @@
+[console_scripts]
+lil-bandit-cli = lil_bandit_cli.cli:main

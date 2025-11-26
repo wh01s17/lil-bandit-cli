@@ -1,0 +1,9 @@
+[project]
+name = "lil-bandit-cli"
+version = "0.1.0"
+description = "CLI project"
+authors = [{ name = "wh01s17" }]
+dependencies = ["typer"]
+
+[project.scripts]
+lil-bandit-cli = "lil_bandit_cli.cli:main"
