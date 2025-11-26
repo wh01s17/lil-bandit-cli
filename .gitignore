@@ -1,0 +1,80 @@
+# =======================
+# ENTORNOS VIRTUALES
+# =======================
+venv/
+.env/
+.venv/
+env/
+ENV/
+
+# =======================
+# CACHES Y COMPILADOS
+# =======================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# =======================
+# ARCHIVOS DE PAQUETE Y BUILD
+# =======================
+build/
+dist/
+*.egg-info/
+*.egg
+
+# =======================
+# CONFIGURACIONES LOCALES
+# =======================
+*.local
+*.log
+
+# =======================
+# CONFIG DE EDITORES
+# =======================
+
+# VSCode
+.vscode/
+
+# PyCharm / IntelliJ
+.idea/
+
+# =======================
+# ARCHIVOS DE ENTORNO
+# =======================
+*.env
+*.env.*
+.envrc
+
+# =======================
+# BASES TEMPORALES
+# =======================
+*.sqlite3
+*.db
+
+# =======================
+# TESTING
+# =======================
+htmlcov/
+.tox/
+.nox/
+coverage.xml
+.pytest_cache/
+
+# =======================
+# HERRAMIENTAS DE DOCUMENTACIÓN
+# =======================
+docs/_build/
+
+# =======================
+# ARCHIVOS TEMPORALES
+# =======================
+*.tmp
+*.temp
+*.swp
+*.swo
+
+# =======================
+# MACOS
+# =======================
+.DS_Store
+
